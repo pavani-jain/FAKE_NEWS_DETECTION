@@ -65,7 +65,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/fake-news-detection.git
+git clone https://github.com/pavani-jain/fake-news-detection.git
 cd fake-news-detection
 Install Dependencies:
 
